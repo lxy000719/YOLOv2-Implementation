@@ -14,5 +14,6 @@ Some test images:
 
 
 Reference:
+
 Coursera course "Convolutional Neural Networks" week 3 assignment provided by deeplearning.ai
 https://www.coursera.org/learn/convolutional-neural-networks
