@@ -6,6 +6,11 @@ Changes to original notebook:
 2. automatically adapt input images size
 3. using for loop to detect all the test images in the folder
 
+Some test images:
+
+![alt text](https://github.com/lxy000719/YOLOv2-Implementation/blob/master/out/test4.jpg?raw=true)
+
+![alt text](https://github.com/lxy000719/YOLOv2-Implementation/blob/master/out/test2.jpg?raw=true)
 
 
 Reference:
